@@ -1,5 +1,5 @@
-// Name: Hafiz Irfan Farooq
-// Roll No: 272551
+// Name: Hafiz Irfan Farooq -->  Roll No: 272551
+
 
 // // 1) Write a program that checks whether a number is even or odd using +prompt
 
